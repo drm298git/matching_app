@@ -1,0 +1,15 @@
+current directory: /Users/admin/Desktop/po_kadai/rails_kadai/schedule_app/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/admin/.rbenv/versions/3.1.2/bin/ruby -I /Users/admin/.rbenv/versions/3.1.2/lib/ruby/3.1.0 -r ./siteconf20221213-95104-96w0wt.rb extconf.rb
+creating Makefile
+
+current directory: /Users/admin/Desktop/po_kadai/rails_kadai/schedule_app/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= clean
+
+current directory: /Users/admin/Desktop/po_kadai/rails_kadai/schedule_app/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\=
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/admin/Desktop/po_kadai/rails_kadai/schedule_app/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20221213-95104-rv4v2w/skiptrace/internal

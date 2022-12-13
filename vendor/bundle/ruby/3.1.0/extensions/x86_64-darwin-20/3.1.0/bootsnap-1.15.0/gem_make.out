@@ -1,0 +1,15 @@
+current directory: /Users/admin/Desktop/po_kadai/rails_kadai/schedule_app/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.15.0/ext/bootsnap
+/Users/admin/.rbenv/versions/3.1.2/bin/ruby -I /Users/admin/.rbenv/versions/3.1.2/lib/ruby/3.1.0 -r ./siteconf20221213-95104-oy1tl8.rb extconf.rb
+creating Makefile
+
+current directory: /Users/admin/Desktop/po_kadai/rails_kadai/schedule_app/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.15.0/ext/bootsnap
+make DESTDIR\= clean
+
+current directory: /Users/admin/Desktop/po_kadai/rails_kadai/schedule_app/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.15.0/ext/bootsnap
+make DESTDIR\=
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/admin/Desktop/po_kadai/rails_kadai/schedule_app/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.15.0/ext/bootsnap
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20221213-95104-v3k12k/bootsnap
