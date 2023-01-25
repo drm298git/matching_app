@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
 
+get 'rooms/index'
   devise_for :users, :controllers => {
     :registrations => 'users/registrations',
     :sessions => 'users/sessions'
@@ -10,6 +11,9 @@ Rails.application.routes.draw do
     get "signup", :to => "users/registrations#new"
     get "login", :to => "users/sessions#new"
     get "logout", :to => "users/sessions#destroy"
-  end
+end
+
+get 'rooms/index'
+end
 
 end
